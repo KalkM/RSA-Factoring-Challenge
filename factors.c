@@ -1,4 +1,4 @@
-#include <stdio.h>
+##include <stdio.h>
 /*
     Finds the smallest divisor, if any, of a given number `n`
     Returns:
